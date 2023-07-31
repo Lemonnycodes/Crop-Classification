@@ -18,3 +18,6 @@ The project consists of a Python script that loads satellite image data, preproc
 ⋅⋅*TensorFlow: An open-source platform for machine learning
 ⋅⋅*scikit-learn: Machine learning library in Python, used for data preprocessing and splitting the dataset
 ⋅⋅* GDAL: A translator library for raster and vector geospatial data formats used to load satellite images
+
+## Evaluation Results
+Accuracy of 95% was acheived
